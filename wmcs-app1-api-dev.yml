@@ -1,0 +1,7 @@
+env: dev
+testValues: "DevVal_1;DevVal_2;DevVal_3"
+Logging:
+  LogLevel:
+    Default: "Warning"
+    System: "Information"
+    Microsoft: "Information"

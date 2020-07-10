@@ -1,0 +1,14 @@
+env: none
+testValues: "BaseVal_1;BaseVal_2"
+serilog:
+  logging:
+    level: debug
+management:
+  endpoints:
+    actuator:
+      exposure:
+        include: ["*"]
+    health:
+      showdetails: always
+      enabled: true
+ASPNETCORE_ENVIRONMENT: "Development"
