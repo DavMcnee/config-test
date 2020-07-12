@@ -1,7 +1,6 @@
 env: int
 testValues: "IntVal_1;IntVal_2"
 features:
-  enabled: 
   disabled:
     - features_99
     - feature_1
