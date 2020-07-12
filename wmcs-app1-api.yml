@@ -12,3 +12,9 @@ management:
       showdetails: always
       enabled: true
 ASPNETCORE_ENVIRONMENT: "Development"
+features:
+  enabled: 
+    - feature_1
+    - feature_2
+  disabled:
+    - features_99
