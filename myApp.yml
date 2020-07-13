@@ -1,6 +1,0 @@
-env: dev
-base-property-1: value_1
-base-property-2: value_2
-serilog.logging.level: verbose
-
-{master}/myApp-dev

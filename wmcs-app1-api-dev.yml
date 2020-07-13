@@ -1,5 +1,5 @@
 env: dev
-testValues: "DevVal_1;DevVal_2;DevVal_3"
+configSource: "WMCS-App-1-dev (feature 2)"
 Logging:
   LogLevel:
     Default: "Warning"

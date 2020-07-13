@@ -1,5 +1,5 @@
 env: none
-testValues: "BaseVal_1;BaseVal_2"
+configSource: "WMCS-App-1-Base (feature 2)"
 serilog:
   logging:
     level: debug
