@@ -1,5 +1,5 @@
 env: int
-testValues: "IntVal_1;IntVal_2"
+configSource: "WMCS-App-1-int (feature 1)"
 features:
   disabled:
     - features_99
